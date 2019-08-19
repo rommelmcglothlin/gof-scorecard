@@ -1,0 +1,11 @@
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.csprojAssemblyReference.cache
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.csproj.CoreCompileInputs.cache
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.AssemblyInfoInputs.cache
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.AssemblyInfo.cs
+/Users/rommelmcglothlin/source/codeworks/GolfCard/bin/Debug/netcoreapp2.2/GolfCard.deps.json
+/Users/rommelmcglothlin/source/codeworks/GolfCard/bin/Debug/netcoreapp2.2/GolfCard.runtimeconfig.json
+/Users/rommelmcglothlin/source/codeworks/GolfCard/bin/Debug/netcoreapp2.2/GolfCard.runtimeconfig.dev.json
+/Users/rommelmcglothlin/source/codeworks/GolfCard/bin/Debug/netcoreapp2.2/GolfCard.dll
+/Users/rommelmcglothlin/source/codeworks/GolfCard/bin/Debug/netcoreapp2.2/GolfCard.pdb
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.dll
+/Users/rommelmcglothlin/source/codeworks/GolfCard/obj/Debug/netcoreapp2.2/GolfCard.pdb
